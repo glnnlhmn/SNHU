@@ -5,8 +5,8 @@ Centralized repository for information required by [SNHU](https://www.snhu.edu/)
 
 Each course has been placed in a seperate sub folder.
 
-| Course | Instructor | Link |
-|--------|------------|------|
-| **CS-305** | Joseph Conlan | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-305) |
+| Course | Name |Instructor | Link |
+|--------|-----|------------|------|
+| **CS-305** | Software Security | Joseph Conlan | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-305) |
 
 
