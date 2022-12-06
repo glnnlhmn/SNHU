@@ -1,6 +1,6 @@
 # Course: CS-305-T2813 Software Security 22EW2
 
-**Directions**
+## Directions
 
 You’ll choose one artifact to add to your GitHub repository for your portfolio for this course. 
 
