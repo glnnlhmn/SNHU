@@ -5,8 +5,16 @@ Centralized repository for information required by [SNHU](https://www.snhu.edu/)
 
 Each course has been placed in a seperate sub folder.
 
-| Course | Name |Instructor | Link |
-|--------|-----|------------|------|
+| Course | Name |Instructor | Link | Final Grade |
+|--------|-----|------------|------|-------------|
+| **DAD-220 | Introduction to Structured Database Environments | Andrew August | | A |
+| **DAT-205** | Role of Data Analysis in Organizations | Raghed Alnounou | | A |
+| **DAT-260 | Emerging Technologies and Big Data | Valisa Brown | | A |
+| **IT-145** | Foundation in Application Development | Ahlam Alhweiti | | A |
+| **CS-210** | Programming Languages | Cynthia Marcello | | A- |
+| **CS-230** | Operating Platforms | Helen Craig | | A |
+| **CS-250** | Software Development Lifecycle | Erin Tirrell | | A |
+| **CS-300** | Data Structures and Algorithms: Analysis and Design | Terry Atkison | | B |
 | **CS-305** | Software Security | Joseph Conlan | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-305) |
 
 
