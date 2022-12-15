@@ -45,8 +45,7 @@ What resources, tools, or coding practices did you use that might be helpful in 
 ```
   In retrospect I should have:
   
-      Spent a few hours upfront create a "Hello World" project in the spring framework to become more familiar with the environement. 
+      Spent a few hours upfront created a "Hello World" project in the spring framework to become more familiar 
       Forced the coding enviroment and change tracking into git
       Not limited my learning opportunity to what the class requires
-     
 ```
