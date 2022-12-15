@@ -15,7 +15,7 @@ Submit one of the artifacts listed above. Then update the README file in your re
 
 *This assignment is graded as pass/fail, and you can earn full credit by responding to each of the following questions:*
 
-Briefly summarize your client, Artemis Financial, and their software requirements. 
+Briefly summarize your client, Artemis Financial, and their software requirements. [Response](https://github.com/glnnlhmn/SNHU/blob/main/CS-305/Week%208/RESPONSE.md)
 
 - Who was the client? 
 - What issue did they want you to address?
