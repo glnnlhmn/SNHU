@@ -1,9 +1,5 @@
 # CS-255-J7658 
-### System Analysis and Design 
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kwf5wc2QCeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+### [System Analysis and Design](https://youtu.be/Kwf5wc2QCeE) 
 
 Term: 23EW3
 
