@@ -1,6 +1,10 @@
 # CS-255-J7658 
 ### System Analysis and Design 
 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kwf5wc2QCeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 Term: 23EW3
 
 ## Instructions
@@ -16,3 +20,4 @@ You will also reflect on the work that you have done in these projects. Reflecti
 - If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 - How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 - How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
