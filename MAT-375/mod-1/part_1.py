@@ -16,7 +16,7 @@ In which generation will rabit population exceed 10,000? (5,000 pairs)
 
 """
 generations = 1000  # Artificially limit the number of generations
-population_goal = 5000
+population_goal = 10000
 
 """ Rabbits born in next generation
     Rabbits in generation n + 1 = Rabbits in generation n + rabbits born in generation n + 1
@@ -38,21 +38,21 @@ def main():
     obj = next_fibonacci_number()
 
     # create an Empty DataFrame object
-    df = pd.DataFrame(columns=['Generation', 'Rabbits', ])
+    df = pd.DataFrame(columns=['Generation', 'Rabbit_Pairs', ])
 
     for i in range(1,generations):  # generations used to prevent a runaway loop
         n = next(obj)
-        new_row = {'Generation': i, 'Rabbits': n * 2}
+        new_row = {'Generation': i, 'Rabbit_Pairs': n}
         df = df.append(new_row, ignore_index=True)    # get next fibonacci number
         if n > population_goal:  # check if population goal has been exceeded
-            print(f'In generation {i} the rabbit population is {n * 2} which exceeds {population_goal * 2} rabbits\n')
+            print(f'In generation {i} the rabbit population is {n} which exceeds {population_goal} rabbit pairs\n')
             break
 
     print(df.to_string(index=False))
 
-    plt.plot(df['Generation'], df['Rabbits'])
+    plt.plot(df['Generation'], df['Rabbit_Pairs'])
     plt.xlabel('Generation')
-    plt.ylabel('Rabbits')
+    plt.ylabel('Rabbit Pairs')
     plt.show()
 
 if __name__ == '__main__':
