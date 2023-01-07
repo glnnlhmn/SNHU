@@ -14,3 +14,6 @@
 | 7          | 5               | 8              | 13            |
 
 #### Note: This is a Fibonacci Sequence
+
+The code is available for all 5 parts of section 2.  Since these files were intended to run once i am a little light on comments.  I ran everything through my IDE
+

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 """Ask the question
 
-In which generation will rabit population exceed 10,000 pairs? 
+In which generation will rabit population exceed 100,000 pairs? 
 """
 
 """Assumptions
@@ -11,31 +11,33 @@ In which generation will rabit population exceed 10,000 pairs?
 1. Rabbit generations are distinct and do not overlap
 2. Rabbits are immortal
 3. Each rabbit pair produces a single pair of offspring 
-4. Each rabbit pair produces offspring after the 2nd generation
+4. Each rabbit pair produces offspring after the 4th generation
 5. Rabbits will continue to produce offspring forever
 
 """
 generations = 1000  # Artificially limit the number of generations
-population_goal = 10000
+population_goal = 100000
 
 """ Rabbits born in next generation
-    Rabbits in generation n + 1 = Rabbits in generation n + rabbits born in generation n + 1
-"""
 
-"""Rabbits who can give birth
-    Rabbits in generation n + 1 = Rabbits in generation n + rabbits born in generation n - 1
+    Rabbits in generation n + 1 = Rabbits in generation n + rabbits born in generation n - 3
 """
-def next_fibonacci_number():
-    a=0
-    b=1
+def next_4gen_rabbit_count():
+    n1 = 1
+    n2 = 0
+    n3 = 0
+    m = 0
+
     while True:
-        yield b
-        a,b= b,a+b
+        t = m + n1 + n2 + n3
+        yield t
+        n1, n2, n3, m = m, n1, n2, m + n3
+
 
 def main():
     n = 0
 
-    obj = next_fibonacci_number()
+    obj = next_4gen_rabbit_count()
 
     # create an Empty DataFrame object
     df = pd.DataFrame(columns=['Generation', 'Rabbit_Pairs', ])
