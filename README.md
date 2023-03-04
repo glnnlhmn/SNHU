@@ -17,5 +17,5 @@ Each course has been placed in a seperate sub folder.
 | **CS-255** | System Analysis and Design | Aline Yurik | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-255) | A |
 | **CS-300** | Data Structures and Algorithms: Analysis and Design | Terry Atkison | | B |
 | **CS-305** | Software Security | Joseph Conlan | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-305) | A |
-| **CS-320** | Software Test Automation | Prof. Toledo | | |
+| **CS-320** | Software Test Automation | Prof. Toledo | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-320) | |
 
