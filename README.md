@@ -19,3 +19,4 @@ Each course has been placed in a seperate sub folder.
 | **CS-305** | Software Security | Joseph Conlan | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-305) | A |
 | **CS-320** | Software Test Automation | Prof. Toledo | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-320) | A |
 | **CS-340** | Client/Server Development | Hari Paruchuri | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-340) | |
+| **CS-330** | Comp Graphic and Visualization | Prof Brian | [Link](https://github.com/glnnlhmn/SNHU/tree/main/CS-330) | |
